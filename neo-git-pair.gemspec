@@ -25,7 +25,6 @@ Gem::Specification.new do |s|
     "VERSION",
     "bin/git-pair",
     "config/cucumber.yml",
-    "edgecase-git-pair.gemspec",
     "features/adding_an_author.feature",
     "features/removing_an_author.feature",
     "features/resetting_the_pair.feature",
@@ -35,7 +34,8 @@ Gem::Specification.new do |s|
     "lib/git-pair.rb",
     "lib/git-pair/author.rb",
     "lib/git-pair/command.rb",
-    "lib/git-pair/config.rb"
+    "lib/git-pair/config.rb",
+    "neo-git-pair.gemspec"
   ]
   s.homepage = "http://github.com/neo/git-pair"
   s.require_paths = ["lib"]
