@@ -7,7 +7,7 @@ more than one author.
 
 Install the gem:
 
-    gem install edgecase-git-pair
+    gem install neo-git-pair
 
 And here's how to use it! 
 
@@ -30,7 +30,7 @@ And here's how to use it!
                       Jon Distad
 
       Current author: Jon Distad + Adam McCrea
-       Current email: devs+jd+am@edgecase.com
+       Current email: devs+jd+am@neo.com
 
 ## How does it work?
 
